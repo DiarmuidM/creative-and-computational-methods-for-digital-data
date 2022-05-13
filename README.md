@@ -10,7 +10,7 @@ It is most suited to empirical researchers in the arts, humanities and social sc
 
 ## Course materials
 
-This repository houses the materials underpinning a [three-day Spring into Methods training course](https://www.ncrm.ac.uk/training/show.php?article=11232) lead by [Dr Diarmuid McDonnell](https://www.uws.ac.uk/staff-directory/diarmuid-mcdonnell/), University of the West of Scotland. The course was first run 16-18 May 2022..
+This repository houses the materials underpinning a three-day Spring into Methods training course lead by [Dr Diarmuid McDonnell](https://www.uws.ac.uk/staff-directory/diarmuid-mcdonnell/), University of the West of Scotland. The course was first run 16-18 May 2022..
 
 ### Programme
 
@@ -25,7 +25,7 @@ The training materials can be found in the following folders:
 
 ## Acknowledgements
 
-We are to the Scottish Graduate School of Social Science and the Scottish Graduate School of Arts and Humanities for funding this course through their joint [Spring into Methods series](https://social.sgsss.ac.uk/spring-into-methods/).
+We are to the Scottish Graduate School of Social Science and the Scottish Graduate School of Arts & Humanities for funding this course through their joint [Spring into Methods series](https://social.sgsss.ac.uk/spring-into-methods/).
 * Dr Diarmuid McDonnell
 * Professor Katarzyna Kosmala 
 * Mr Elfneh Bariso
