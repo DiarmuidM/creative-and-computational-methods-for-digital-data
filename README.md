@@ -2,32 +2,35 @@
 
 ## Introduction
 
-There is an unprecedented amount of information on the internet that could usefully be harvested in order to build social science research datasets.
+Our social interactions, personal behaviour and commercial transactions are now increasingly conducted online and/ or captured digitally. These digital phenomena are often aggregated into large, rich and unstructured data sets, many of which are only accessible if you possess the right computational skills to access and manage data from websites and online databases (Kitchin, 2014).  
 
-This one-day online course will showcase suitable techniques for web scraping.
+This three-day online course introduces researchers to computational methods for generating and collecting digital data.
 
-The value, logic and process of capturing data stored on websites will be described in detail, and practical examples and exercises will be demonstrated using the Python programming language.
-
-It is most suited to empirical social science researchers.
+It is most suited to empirical researchers in the arts, humanities and social sciences.
 
 ## Course materials
 
-This repository houses the materials underpinning a [one-day NCRM course on web scraping](https://www.ncrm.ac.uk/training/show.php?article=11232) run by [Dr Diarmuid McDonnell](https://www.uws.ac.uk/staff-directory/diarmuid-mcdonnell/), University of the West of Scotland. The course was first run on 2021-05-17.
+This repository houses the materials underpinning a [three-day Spring into Methods training course](https://www.ncrm.ac.uk/training/show.php?article=11232) lead by [Dr Diarmuid McDonnell](https://www.uws.ac.uk/staff-directory/diarmuid-mcdonnell/), University of the West of Scotland. The course was first run 16-18 May 2022..
 
 ### Programme
 
-The course programme can be viewed [here](https://github.com/DiarmuidM/ncrm-web-scraping-to-build-social-research-data/ncrm-web-scraping-programme.pdf).
+The course programme can be viewed [here](https://github.com/DiarmuidM/creative-and-computational-methods-for-digital-data/sim-programme-v2-2022-05-13.pdf).
 
 ### Materials
 
 The training materials can be found in the following folders:
-* [code](./code) - Jupyter Notebooks containing executable Python code for the web scraping lessons.
+* [code](./code) - Jupyter Notebooks containing executable Python code for the web-scraping/API lessons.
 * [presentations](./presentations) - PDF versions of the course lectures.
-* [reading](./reading) - lists of interesting and relevant web scraping online articles.
+* [reading](./reading) - lists of interesting and relevant learning resources.
 
 ## Acknowledgements
 
-I am grateful to the National Centre for Research Methods (NCRM) for funding this course and an associated set of online learning resources.
+We are to the Scottish Graduate School of Social Science and the Scottish Graduate School of Arts and Humanities for funding this course through their joint [Spring into Methods series](https://social.sgsss.ac.uk/spring-into-methods/).
+* Dr Diarmuid McDonnell
+* Professor Katarzyna Kosmala 
+* Mr Elfneh Bariso
+* Dr Allison Wylde
+* Dr Dina Nziku 
 
 ## Further information
 
