@@ -25,7 +25,7 @@ The training materials can be found in the following folders:
 
 ## Acknowledgements
 
-We are to the Scottish Graduate School of Social Science and the Scottish Graduate School of Arts & Humanities for funding this course through their joint [Spring into Methods series](https://social.sgsss.ac.uk/spring-into-methods/).
+We are very grateful to the Scottish Graduate School of Social Science and the Scottish Graduate School of Arts & Humanities for funding this course through their joint [Spring into Methods series](https://social.sgsss.ac.uk/spring-into-methods/).
 * Dr Diarmuid McDonnell
 * Professor Katarzyna Kosmala 
 * Mr Elfneh Bariso
