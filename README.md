@@ -10,7 +10,7 @@ It is most suited to empirical researchers in the arts, humanities and social sc
 
 ## Course materials
 
-This repository houses the materials underpinning a three-day Spring into Methods training course lead by [Dr Diarmuid McDonnell](https://www.uws.ac.uk/staff-directory/diarmuid-mcdonnell/), University of the West of Scotland. The course was first run 16-18 May 2022..
+This repository houses the materials underpinning a three-day Spring into Methods training course lead by [Dr Diarmuid McDonnell](https://www.uws.ac.uk/staff-directory/diarmuid-mcdonnell/), University of the West of Scotland. The course was first run 16-18 May 2022.
 
 ### Programme
 
@@ -21,7 +21,7 @@ The course programme can be viewed [here](https://github.com/DiarmuidM/creative-
 The training materials can be found in the following folders:
 * [code](./code) - Jupyter Notebooks containing executable Python code for the web-scraping/API lessons.
 * [presentations](./presentations) - PDF versions of the course lectures.
-* [reading](./reading) - lists of interesting and relevant learning resources.
+* [resources](./resources) - lists of interesting and relevant learning resources.
 
 ## Acknowledgements
 
