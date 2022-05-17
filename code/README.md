@@ -9,3 +9,9 @@ You can download these notebooks to your own machine but, for learning purposes,
 If you want to follow the course programme, then here is the order to work through the notebooks:
 1. sim-web-scraping-demonstration-2022-05-17.ipynb
 2. sim-apis-demonstration-2022-05-17.ipynb
+
+### Google Colab
+
+Alternatively you can access the notebook through Google Colab:
+1. [sim-web-scraping-demonstration-2022-05-17.ipynb](https://colab.research.google.com/drive/1F6sY7u-4ezn1P_7v9ZL64R99R6OAT2LB?usp=sharing)
+2. [sim-apis-demonstration-2022-05-17.ipynb](https://colab.research.google.com/drive/1ggLMUYjCOsnqvJH_2yxV3HLSFaYBD8fl?usp=sharing)
