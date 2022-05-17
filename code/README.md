@@ -13,5 +13,5 @@ If you want to follow the course programme, then here is the order to work throu
 ### Google Colab
 
 Alternatively you can access the notebook through Google Colab:
-1. [sim-web-scraping-demonstration-2022-05-17.ipynb](https://colab.research.google.com/drive/1F6sY7u-4ezn1P_7v9ZL64R99R6OAT2LB?usp=sharing)
-2. [sim-apis-demonstration-2022-05-17.ipynb](https://colab.research.google.com/drive/1ggLMUYjCOsnqvJH_2yxV3HLSFaYBD8fl?usp=sharing)
+1. [sim-web-scraping-demonstration-2022-05-17.ipynb](https://colab.research.google.com/drive/1qSwaiDe2aj1mYX5IT4WzidZ_6IS5Yo4O?usp=sharing)
+2. [sim-apis-demonstration-2022-05-17.ipynb](https://colab.research.google.com/drive/1nUmUcdHaExxzuq5E7mJhkOpHM1wmAwCm?usp=sharing)
