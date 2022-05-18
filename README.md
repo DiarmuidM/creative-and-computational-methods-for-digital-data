@@ -20,6 +20,7 @@ The course programme can be viewed [here](https://github.com/DiarmuidM/creative-
 
 The training materials can be found in the following folders:
 * [code](./code) - Jupyter Notebooks containing executable Python code for the web-scraping/API lessons.
+* [data-challenges](./data-challenges) - a series of web-scraping / API challenges and exercises for day three.
 * [presentations](./presentations) - PDF versions of the course lectures.
 * [resources](./resources) - lists of interesting and relevant learning resources.
 
