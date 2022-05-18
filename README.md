@@ -24,6 +24,11 @@ The training materials can be found in the following folders:
 * [presentations](./presentations) - PDF versions of the course lectures.
 * [resources](./resources) - lists of interesting and relevant learning resources.
 
+### Evaluation
+
+The evaluation form for attendees: [https://brawdata.onlinesurveys.ac.uk/spring-into-methods-2022-evaluation
+](https://brawdata.onlinesurveys.ac.uk/spring-into-methods-2022-evaluation)
+
 ## Acknowledgements
 
 We are very grateful to the Scottish Graduate School of Social Science and the Scottish Graduate School of Arts & Humanities for funding this course through their joint [Spring into Methods series](https://social.sgsss.ac.uk/spring-into-methods/).
