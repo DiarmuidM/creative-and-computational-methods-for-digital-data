@@ -14,7 +14,7 @@ This repository houses the materials underpinning a three-day Spring into Method
 
 ### Programme
 
-The course programme can be viewed [here](https://github.com/DiarmuidM/creative-and-computational-methods-for-digital-data/sim-programme-v2-2022-05-13.pdf).
+The course programme can be viewed [here](https://github.com/DiarmuidM/creative-and-computational-methods-for-digital-data/blob/main/sim-programme-v2-2022-05-13.pdf).
 
 ### Materials
 
